@@ -1,4 +1,4 @@
-jButton bInsert = new jButton();
-bInsert.setVisible(true);
-bInsert.setLocation(12,12);
-bInsert.setSize(165,50);
+jButton bDelete = new jButton();
+bDelete.setVisible(true);
+bDelete.setLocation(12,12);
+bDelete.setSize(165,50);
