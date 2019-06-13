@@ -1,2 +1,0 @@
-JTextField tfName = new JTextField();
-tfName.setToolTipText("Короткое поле");

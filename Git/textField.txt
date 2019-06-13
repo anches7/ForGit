@@ -1,0 +1,2 @@
+JTextField tfName = new JTextField();
+tfName.setToolTipText("Êîðîòêîå ïîëå");
